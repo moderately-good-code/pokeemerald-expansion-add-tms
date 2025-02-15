@@ -52,6 +52,7 @@ def pokemondb_mon_name_to_pokeemerald_mon_name(db_name: str) -> str:
             "_HOOPA_CONFINED", "_ORDINARY_FORM", "_MIDDAY_FORM",
             "_AMPED_FORM", "_LAND_FORME", "_ALTERED_FORME", "_BAILE_STYLE",
             "_ARIA_FORME", "_RED_STRIPED_FORM", "_METEOR_FORM",
+            "_FULL_BELLY_MODE",
             "_MALE", # kind of misogynistic that they made this the "normal" form...
             # remove these AFTER the ones above!
             "_FORME", "_FORM", "_STYLE"]:
